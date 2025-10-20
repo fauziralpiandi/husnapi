@@ -3,7 +3,6 @@ import express, {
   type NextFunction,
   type Response,
 } from 'express';
-import rateLimit from 'express-rate-limit';
 import { v1 } from './v1/index.js';
 import pkg from '../package.json' with { type: 'json' };
 
@@ -12,19 +11,8 @@ const PORT = Number(process.env.PORT) || 3000;
 
 app.set('trust proxy', 1); // load balancer
 
-const limiter = rateLimit({
-  windowMs: 15 * 60 * 1000,
-  max: 99,
-  message: {
-    success: false,
-    status: 429,
-    data: null,
-  },
-}); // fair: ~6 requests/min
-
 // middleware
 app.use(express.json());
-app.use(limiter);
 
 // CORS
 app.use((_, res: Response, next: NextFunction) => {
