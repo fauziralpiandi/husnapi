@@ -1,0 +1,1494 @@
+[
+  {
+    "id": 1,
+    "arabic": "ٱللّٰهُ",
+    "latin": "Allāh",
+    "translations": {
+      "en": {
+        "meaning": "Allah",
+        "tafsir": "The one and only God, ultimate in power and existence, source of all creation and worthy of all worship."
+      },
+      "id": {
+        "meaning": "Allah",
+        "tafsir": "Satu-satunya Tuhan yang berkuasa dan eksis mutlak, sumber seluruh ciptaan dan berhak disembah."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "arabic": "ٱلرَّحْمَٰنُ",
+    "latin": "Ar-Raḥmān",
+    "translations": {
+      "en": {
+        "meaning": "The Most Compassionate",
+        "tafsir": "Mercy encompasses all creation, reflecting the vastness of divine compassion without limits."
+      },
+      "id": {
+        "meaning": "Yang Maha Pengasih",
+        "tafsir": "Kasih sayang-Nya meliputi seluruh makhluk, menunjukkan keluasan rahmat-Nya tanpa batas."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "arabic": "ٱلرَّحِيمُ",
+    "latin": "Ar-Raḥīm",
+    "translations": {
+      "en": {
+        "meaning": "The Most Merciful",
+        "tafsir": "Continuous mercy is given especially to the believers, nurturing them with care and forgiveness."
+      },
+      "id": {
+        "meaning": "Yang Maha Penyayang",
+        "tafsir": "Rahmat-Nya terus-menerus tercurah khusus bagi orang-orang beriman, penuh kasih dan ampunan."
+      }
+    }
+  },
+  {
+    "id": 4,
+    "arabic": "ٱلْمَلِكُ",
+    "latin": "Al-Malik",
+    "translations": {
+      "en": {
+        "meaning": "The King",
+        "tafsir": "Absolute ruler over all existence, whose authority and dominion encompass everything."
+      },
+      "id": {
+        "meaning": "Raja Segala Raja",
+        "tafsir": "Penguasa mutlak atas seluruh ciptaan, kekuasaan-Nya mencakup segala sesuatu."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "arabic": "ٱلْقُدُّوسُ",
+    "latin": "Al-Quddūs",
+    "translations": {
+      "en": {
+        "meaning": "The Most Holy",
+        "tafsir": "Pure and perfect, free from imperfection or defect, exalted above all flaws."
+      },
+      "id": {
+        "meaning": "Yang Maha Suci",
+        "tafsir": "Mahasuci dari segala kekurangan dan kesalahan, sempurna dalam setiap sifat-Nya."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "arabic": "ٱلسَّلَامُ",
+    "latin": "As-Salām",
+    "translations": {
+      "en": {
+        "meaning": "The Source of Peace",
+        "tafsir": "Safety and tranquility are granted to all creation, free from harm and injustice."
+      },
+      "id": {
+        "meaning": "Sumber Kedamaian",
+        "tafsir": "Keselamatan dan ketenangan diberikan kepada seluruh makhluk, terbebas dari keburukan."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "arabic": "ٱلْمُؤْمِنُ",
+    "latin": "Al-Muʾmin",
+    "translations": {
+      "en": {
+        "meaning": "The Giver of Faith",
+        "tafsir": "Faith and assurance are granted to the servants, providing confidence and security."
+      },
+      "id": {
+        "meaning": "Pemberi Keimanan",
+        "tafsir": "Iman dan keteguhan diberikan kepada hamba-Nya, memberikan rasa aman dan percaya."
+      }
+    }
+  },
+  {
+    "id": 8,
+    "arabic": "ٱلْمُهَيْمِنُ",
+    "latin": "Al-Muhaymin",
+    "translations": {
+      "en": {
+        "meaning": "The Guardian",
+        "tafsir": "Protector and overseer of all creation, preserving everything with complete knowledge."
+      },
+      "id": {
+        "meaning": "Yang Maha Memelihara",
+        "tafsir": "Pelindung yang mengawasi seluruh ciptaan, menjaga semua dengan pengetahuan sempurna."
+      }
+    }
+  },
+  {
+    "id": 9,
+    "arabic": "ٱلْعَزِيزُ",
+    "latin": "Al-ʿAzīz",
+    "translations": {
+      "en": {
+        "meaning": "The Almighty",
+        "tafsir": "Absolute strength and honor belong to Allah; none can overcome or equal Him."
+      },
+      "id": {
+        "meaning": "Yang Maha Perkasa",
+        "tafsir": "Kekuatan dan kemuliaan mutlak hanya milik-Nya; tiada yang dapat menandingi-Nya."
+      }
+    }
+  },
+  {
+    "id": 10,
+    "arabic": "ٱلْجَبَّارُ",
+    "latin": "Al-Jabbār",
+    "translations": {
+      "en": {
+        "meaning": "The Compeller",
+        "tafsir": "Restores what is broken and arranges creation according to divine will with perfect power."
+      },
+      "id": {
+        "meaning": "Yang Maha Memaksa",
+        "tafsir": "Memperbaiki yang rusak dan menata ciptaan sesuai kehendak-Nya dengan kekuasaan sempurna."
+      }
+    }
+  },
+  {
+    "id": 11,
+    "arabic": "ٱلْمُتَكَبِّرُ",
+    "latin": "Al-Mutakabbir",
+    "translations": {
+      "en": {
+        "meaning": "The Supreme in Greatness",
+        "tafsir": "Exalted above all creation in majesty and perfection; true greatness belongs only to Allah."
+      },
+      "id": {
+        "meaning": "Yang Maha Agung",
+        "tafsir": "Maha Tinggi dan Agung, keagungan sejati hanya milik Allah semata."
+      }
+    }
+  },
+  {
+    "id": 12,
+    "arabic": "ٱلْخَالِقُ",
+    "latin": "Al-Khāliq",
+    "translations": {
+      "en": {
+        "meaning": "The Creator",
+        "tafsir": "Originates all existence from nothing, bringing everything into being with wisdom and order."
+      },
+      "id": {
+        "meaning": "Yang Maha Pencipta",
+        "tafsir": "Menciptakan segala sesuatu dari ketiadaan, menata ciptaan dengan kebijaksanaan dan keteraturan."
+      }
+    }
+  },
+  {
+    "id": 13,
+    "arabic": "ٱلْبَارِئُ",
+    "latin": "Al-Bāriʾ",
+    "translations": {
+      "en": {
+        "meaning": "The Evolver",
+        "tafsir": "Shapes and develops creation in precise order, manifesting unique forms and functions."
+      },
+      "id": {
+        "meaning": "Yang Membentuk",
+        "tafsir": "Membentuk dan menata ciptaan dengan keteraturan, menghasilkan bentuk dan fungsi yang unik."
+      }
+    }
+  },
+  {
+    "id": 14,
+    "arabic": "ٱلْمُصَوِّرُ",
+    "latin": "Al-Muṣawwir",
+    "translations": {
+      "en": {
+        "meaning": "The Fashioner",
+        "tafsir": "Gives each creation its distinct form and appearance, reflecting perfect design and beauty."
+      },
+      "id": {
+        "meaning": "Yang Membentuk Wujud",
+        "tafsir": "Memberi setiap ciptaan bentuk dan rupa khas, menunjukkan desain dan keindahan sempurna."
+      }
+    }
+  },
+  {
+    "id": 15,
+    "arabic": "ٱلْغَفَّارُ",
+    "latin": "Al-Ghaffār",
+    "translations": {
+      "en": {
+        "meaning": "The Great Forgiver",
+        "tafsir": "Forgives repeated sins, showing continuous mercy and patience toward creation."
+      },
+      "id": {
+        "meaning": "Yang Maha Pengampun",
+        "tafsir": "Mengampuni dosa yang berulang, menunjukkan rahmat dan kesabaran yang terus-menerus."
+      }
+    }
+  },
+  {
+    "id": 16,
+    "arabic": "ٱلْقَهَّارُ",
+    "latin": "Al-Qahhār",
+    "translations": {
+      "en": {
+        "meaning": "The All-Prevailing",
+        "tafsir": "Powerful over all creation; nothing can resist divine will or overcome it."
+      },
+      "id": {
+        "meaning": "Yang Maha Perkasa",
+        "tafsir": "Berkuasa atas seluruh ciptaan; tak ada yang dapat menentang atau menyaingi kehendak-Nya."
+      }
+    }
+  },
+  {
+    "id": 17,
+    "arabic": "ٱلْوَهَّابُ",
+    "latin": "Al-Wahhāb",
+    "translations": {
+      "en": {
+        "meaning": "The Supreme Bestower",
+        "tafsir": "Generously gives blessings and gifts to creation, unconditionally and abundantly."
+      },
+      "id": {
+        "meaning": "Yang Maha Pemberi",
+        "tafsir": "Memberi karunia dan nikmat kepada ciptaan secara luas, tanpa syarat dan berlimpah."
+      }
+    }
+  },
+  {
+    "id": 18,
+    "arabic": "ٱلْرَّزَّاقُ",
+    "latin": "Ar-Razzāq",
+    "translations": {
+      "en": {
+        "meaning": "The Provider",
+        "tafsir": "Ensures sustenance for all creation, maintaining balance and provision according to wisdom."
+      },
+      "id": {
+        "meaning": "Yang Maha Pemberi Rezeki",
+        "tafsir": "Menjamin rezeki untuk seluruh makhluk, menata keseimbangan dan pemberian dengan hikmah."
+      }
+    }
+  },
+  {
+    "id": 19,
+    "arabic": "ٱلْفَتَّاحُ",
+    "latin": "Al-Fattāḥ",
+    "translations": {
+      "en": {
+        "meaning": "The Supreme Opener",
+        "tafsir": "Opens paths of success, understanding, and guidance, resolving difficulties for creation."
+      },
+      "id": {
+        "meaning": "Yang Maha Pembuka",
+        "tafsir": "Membuka jalan keberhasilan, pemahaman, dan petunjuk, menyelesaikan kesulitan bagi ciptaan."
+      }
+    }
+  },
+  {
+    "id": 20,
+    "arabic": "ٱلْعَلِيمُ",
+    "latin": "Al-ʿAlīm",
+    "translations": {
+      "en": {
+        "meaning": "The All-Knowing",
+        "tafsir": "Possesses complete knowledge of all things, seen and unseen, past, present, and future."
+      },
+      "id": {
+        "meaning": "Yang Maha Mengetahui",
+        "tafsir": "Memiliki pengetahuan sempurna atas segala sesuatu, yang terlihat maupun tersembunyi, masa lalu, kini, dan masa depan."
+      }
+    }
+  },
+  {
+    "id": 21,
+    "arabic": "ٱلْقَابِضُ",
+    "latin": "Al-Qābiḍ",
+    "translations": {
+      "en": {
+        "meaning": "The Withholder",
+        "tafsir": "Restrains provision or power according to divine wisdom, teaching lessons of patience and reliance."
+      },
+      "id": {
+        "meaning": "Yang Menyempitkan",
+        "tafsir": "Membatasi rezeki atau kekuasaan sesuai hikmah-Nya, mengajarkan kesabaran dan ketergantungan kepada-Nya."
+      }
+    }
+  },
+
+  {
+    "id": 22,
+    "arabic": "ٱلْبَاسِطُ",
+    "latin": "Al-Bāsiṭ",
+    "translations": {
+      "en": {
+        "meaning": "The Expander",
+        "tafsir": "Expands provision, mercy, or ease according to divine wisdom, enabling growth and comfort."
+      },
+      "id": {
+        "meaning": "Yang Melapangkan",
+        "tafsir": "Melapangkan rezeki, rahmat, atau kemudahan sesuai hikmah-Nya, memungkinkan pertumbuhan dan kenyamanan."
+      }
+    }
+  },
+  {
+    "id": 23,
+    "arabic": "ٱلْخَافِضُ",
+    "latin": "Al-Khāfiḍ",
+    "translations": {
+      "en": {
+        "meaning": "The Abaser",
+        "tafsir": "Brings humility or restraint where needed, teaching lessons of dependence and awareness."
+      },
+      "id": {
+        "meaning": "Yang Merendahkan",
+        "tafsir": "Menerapkan kerendahan hati atau pembatasan sesuai kebutuhan, mengajarkan ketergantungan dan kesadaran."
+      }
+    }
+  },
+  {
+    "id": 24,
+    "arabic": "ٱلْرَّافِعُ",
+    "latin": "Ar-Rāfiʿ",
+    "translations": {
+      "en": {
+        "meaning": "The Exalter",
+        "tafsir": "Raises rank, status, or provision as willed, showing divine justice and wisdom."
+      },
+      "id": {
+        "meaning": "Yang Meninggikan",
+        "tafsir": "Meninggikan derajat, status, atau rezeki sesuai kehendak-Nya, menunjukkan keadilan dan hikmah-Nya."
+      }
+    }
+  },
+  {
+    "id": 25,
+    "arabic": "ٱلْمُعِزُّ",
+    "latin": "Al-Muʿizz",
+    "translations": {
+      "en": {
+        "meaning": "The Bestower of Honor",
+        "tafsir": "Grants honor, strength, and dignity to creation according to divine wisdom."
+      },
+      "id": {
+        "meaning": "Yang Memuliakan",
+        "tafsir": "Memberikan kehormatan, kekuatan, dan martabat kepada ciptaan sesuai hikmah-Nya."
+      }
+    }
+  },
+  {
+    "id": 26,
+    "arabic": "ٱلْمُذِلُّ",
+    "latin": "Al-Muzill",
+    "translations": {
+      "en": {
+        "meaning": "The Humiliator",
+        "tafsir": "Restrains pride and arrogance, showing consequences and divine justice."
+      },
+      "id": {
+        "meaning": "Yang Menghinakan",
+        "tafsir": "Membatasi kesombongan dan keangkuhan, menunjukkan akibat dan keadilan-Nya."
+      }
+    }
+  },
+  {
+    "id": 27,
+    "arabic": "ٱلسَّمِيعُ",
+    "latin": "As-Samīʿ",
+    "translations": {
+      "en": {
+        "meaning": "The All-Hearing",
+        "tafsir": "Aware of all sounds and requests, nothing is hidden from divine knowledge."
+      },
+      "id": {
+        "meaning": "Yang Maha Mendengar",
+        "tafsir": "Mendengar segala suara dan permintaan, tidak ada yang tersembunyi dari pengetahuan-Nya."
+      }
+    }
+  },
+  {
+    "id": 28,
+    "arabic": "ٱلْبَصِيرُ",
+    "latin": "Al-Baṣīr",
+    "translations": {
+      "en": {
+        "meaning": "The All-Seeing",
+        "tafsir": "Observes all actions and creation, nothing escapes divine perception."
+      },
+      "id": {
+        "meaning": "Yang Maha Melihat",
+        "tafsir": "Mengamati segala perbuatan dan ciptaan, tidak ada yang luput dari penglihatan-Nya."
+      }
+    }
+  },
+  {
+    "id": 29,
+    "arabic": "ٱلْحَكَمُ",
+    "latin": "Al-Ḥakam",
+    "translations": {
+      "en": {
+        "meaning": "The Judge",
+        "tafsir": "Establishes justice perfectly, ensuring fairness and accountability in all matters."
+      },
+      "id": {
+        "meaning": "Yang Maha Menetapkan",
+        "tafsir": "Menegakkan keadilan dengan sempurna, memastikan kesetaraan dan tanggung jawab dalam segala hal."
+      }
+    }
+  },
+  {
+    "id": 30,
+    "arabic": "ٱلْعَدْلُ",
+    "latin": "Al-ʿAdl",
+    "translations": {
+      "en": {
+        "meaning": "The Just",
+        "tafsir": "Maintains perfect justice, balancing reward and consequence for all actions."
+      },
+      "id": {
+        "meaning": "Yang Maha Adil",
+        "tafsir": "Menjaga keadilan yang sempurna, menyeimbangkan pahala dan akibat bagi semua perbuatan."
+      }
+    }
+  },
+  {
+    "id": 31,
+    "arabic": "ٱلْلَطِيفُ",
+    "latin": "Al-Laṭīf",
+    "translations": {
+      "en": {
+        "meaning": "The Subtle One",
+        "tafsir": "Sees and knows the finest details, providing care and guidance in subtle ways."
+      },
+      "id": {
+        "meaning": "Yang Maha Lembut",
+        "tafsir": "Mengetahui dan melihat hal-hal terkecil, memberikan perhatian dan petunjuk dengan cara lembut."
+      }
+    }
+  },
+  {
+    "id": 32,
+    "arabic": "ٱلْخَبِيرُ",
+    "latin": "Al-Khabīr",
+    "translations": {
+      "en": {
+        "meaning": "The All-Aware",
+        "tafsir": "Fully aware of all matters, actions, and intentions, nothing escapes divine awareness."
+      },
+      "id": {
+        "meaning": "Yang Maha Mengenal",
+        "tafsir": "Mengetahui sepenuhnya segala urusan, perbuatan, dan niat; tidak ada yang luput dari pengetahuan-Nya."
+      }
+    }
+  },
+  {
+    "id": 33,
+    "arabic": "ٱلْحَلِيمُ",
+    "latin": "Al-Ḥalīm",
+    "translations": {
+      "en": {
+        "meaning": "The Forbearing",
+        "tafsir": "Shows patience and restraint, allowing creation room to learn and correct mistakes."
+      },
+      "id": {
+        "meaning": "Yang Maha Penyantun",
+        "tafsir": "Menunjukkan kesabaran dan kelembutan, memberi ruang bagi ciptaan untuk belajar dan memperbaiki kesalahan."
+      }
+    }
+  },
+
+  {
+    "id": 34,
+    "arabic": "ٱلْعَظِيمُ",
+    "latin": "Al-ʿAẓīm",
+    "translations": {
+      "en": {
+        "meaning": "The Magnificent",
+        "tafsir": "Exalted in majesty and greatness, perfection belongs only to the divine essence."
+      },
+      "id": {
+        "meaning": "Yang Maha Agung",
+        "tafsir": "Maha Tinggi dalam keagungan dan kebesaran, kesempurnaan hanya milik Zat-Nya."
+      }
+    }
+  },
+  {
+    "id": 35,
+    "arabic": "ٱلْغَفُورُ",
+    "latin": "Al-Ghafūr",
+    "translations": {
+      "en": {
+        "meaning": "The Most Forgiving",
+        "tafsir": "Continuously forgives sins, showing patience and mercy toward creation."
+      },
+      "id": {
+        "meaning": "Yang Maha Pengampun",
+        "tafsir": "Terus-menerus mengampuni dosa, menunjukkan kesabaran dan rahmat kepada ciptaan."
+      }
+    }
+  },
+  {
+    "id": 36,
+    "arabic": "ٱلشَّكُورُ",
+    "latin": "Ash-Shakūr",
+    "translations": {
+      "en": {
+        "meaning": "The Appreciative",
+        "tafsir": "Acknowledges even small acts of goodness, rewarding creation abundantly."
+      },
+      "id": {
+        "meaning": "Yang Maha Mensyukuri",
+        "tafsir": "Menghargai setiap perbuatan baik, sekecil apapun, dan memberikan ganjaran berlimpah."
+      }
+    }
+  },
+  {
+    "id": 37,
+    "arabic": "ٱلْعَلِيُّ",
+    "latin": "Al-ʿAlīy",
+    "translations": {
+      "en": {
+        "meaning": "The Most High",
+        "tafsir": "Exalted above all creation, unmatched in status, power, and majesty."
+      },
+      "id": {
+        "meaning": "Yang Maha Tinggi",
+        "tafsir": "Maha Tinggi di atas seluruh ciptaan, tiada yang menyamai dalam kedudukan, kekuasaan, dan keagungan."
+      }
+    }
+  },
+  {
+    "id": 38,
+    "arabic": "ٱلْكَبِيرُ",
+    "latin": "Al-Kabīr",
+    "translations": {
+      "en": {
+        "meaning": "The Most Great",
+        "tafsir": "Supreme in greatness, surpassing all creation in majesty and essence."
+      },
+      "id": {
+        "meaning": "Yang Maha Besar",
+        "tafsir": "Maha Besar, melebihi seluruh ciptaan dalam keagungan dan hakikat."
+      }
+    }
+  },
+  {
+    "id": 39,
+    "arabic": "ٱلْحَفِيظُ",
+    "latin": "Al-Ḥafīẓ",
+    "translations": {
+      "en": {
+        "meaning": "The Preserver",
+        "tafsir": "Protects and maintains all creation, nothing is lost or forgotten."
+      },
+      "id": {
+        "meaning": "Yang Maha Memelihara",
+        "tafsir": "Menjaga dan memelihara seluruh ciptaan, tidak ada yang hilang atau terlupakan."
+      }
+    }
+  },
+  {
+    "id": 40,
+    "arabic": "ٱلْمُقيِتُ",
+    "latin": "Al-Muqīt",
+    "translations": {
+      "en": {
+        "meaning": "The Sustainer",
+        "tafsir": "Provides nourishment and support to all beings, sustaining life and balance."
+      },
+      "id": {
+        "meaning": "Yang Maha Pemberi Kehidupan",
+        "tafsir": "Memberikan rezeki dan dukungan kepada semua makhluk, menjaga kehidupan dan keseimbangan."
+      }
+    }
+  },
+  {
+    "id": 41,
+    "arabic": "ٱلْحسِيبُ",
+    "latin": "Al-Ḥasīb",
+    "translations": {
+      "en": {
+        "meaning": "The Reckoner",
+        "tafsir": "Keeps account of all deeds, ensuring perfect justice and accountability."
+      },
+      "id": {
+        "meaning": "Yang Maha Menghitung",
+        "tafsir": "Mencatat semua perbuatan, menjamin keadilan dan pertanggungjawaban yang sempurna."
+      }
+    }
+  },
+  {
+    "id": 42,
+    "arabic": "ٱلْجَلِيلُ",
+    "latin": "Al-Jalīl",
+    "translations": {
+      "en": {
+        "meaning": "The Majestic",
+        "tafsir": "Exalted in glory and honor, inspiring reverence and awe."
+      },
+      "id": {
+        "meaning": "Yang Maha Mulia",
+        "tafsir": "Maha Tinggi dalam kemuliaan dan kehormatan, menimbulkan rasa kagum dan hormat."
+      }
+    }
+  },
+  {
+    "id": 43,
+    "arabic": "ٱلْكَرِيمُ",
+    "latin": "Al-Karīm",
+    "translations": {
+      "en": {
+        "meaning": "The Generous",
+        "tafsir": "Grants abundant blessings and favors, showing infinite generosity."
+      },
+      "id": {
+        "meaning": "Yang Maha Dermawan",
+        "tafsir": "Memberikan nikmat dan karunia berlimpah, menunjukkan kemurahan tanpa batas."
+      }
+    }
+  },
+  {
+    "id": 44,
+    "arabic": "ٱلْرَّقِيبُ",
+    "latin": "Ar-Raqīb",
+    "translations": {
+      "en": {
+        "meaning": "The Watchful",
+        "tafsir": "Observes all actions and intentions, nothing escapes divine oversight."
+      },
+      "id": {
+        "meaning": "Yang Maha Mengawasi",
+        "tafsir": "Mengamati semua perbuatan dan niat, tidak ada yang luput dari pengawasan-Nya."
+      }
+    }
+  },
+
+  {
+    "id": 45,
+    "arabic": "ٱلْمُجِيبُ",
+    "latin": "Al-Mujīb",
+    "translations": {
+      "en": {
+        "meaning": "The Responsive",
+        "tafsir": "Responds to prayers and needs of creation according to divine wisdom."
+      },
+      "id": {
+        "meaning": "Yang Maha Mengabulkan",
+        "tafsir": "Mengabulkan doa dan kebutuhan ciptaan sesuai hikmah-Nya."
+      }
+    }
+  },
+  {
+    "id": 46,
+    "arabic": "ٱلْوَاسِعُ",
+    "latin": "Al-Wāsiʿ",
+    "translations": {
+      "en": {
+        "meaning": "The All-Encompassing",
+        "tafsir": "Mercy, provision, and knowledge extend throughout all creation."
+      },
+      "id": {
+        "meaning": "Yang Maha Luas",
+        "tafsir": "Rahmat, rezeki, dan ilmu-Nya meliputi seluruh ciptaan."
+      }
+    }
+  },
+  {
+    "id": 47,
+    "arabic": "ٱلْحَكِيمُ",
+    "latin": "Al-Ḥakīm",
+    "translations": {
+      "en": {
+        "meaning": "The All-Wise",
+        "tafsir": "Acts with perfect wisdom, ensuring all creation unfolds with balance and purpose."
+      },
+      "id": {
+        "meaning": "Yang Maha Bijaksana",
+        "tafsir": "Bertindak dengan kebijaksanaan sempurna, memastikan segala ciptaan berjalan seimbang dan penuh tujuan."
+      }
+    }
+  },
+  {
+    "id": 48,
+    "arabic": "ٱلْوَدُودُ",
+    "latin": "Al-Wadūd",
+    "translations": {
+      "en": {
+        "meaning": "The Loving",
+        "tafsir": "Shows love and care toward creation, nurturing bonds of goodness and mercy."
+      },
+      "id": {
+        "meaning": "Yang Maha Mengasihi",
+        "tafsir": "Menunjukkan kasih sayang dan perhatian kepada ciptaan, menumbuhkan kebaikan dan rahmat."
+      }
+    }
+  },
+  {
+    "id": 49,
+    "arabic": "ٱلْمَجِيدُ",
+    "latin": "Al-Majīd",
+    "translations": {
+      "en": {
+        "meaning": "The Most Glorious",
+        "tafsir": "Exalted in glory and honor, reflecting grandeur and majesty in all aspects."
+      },
+      "id": {
+        "meaning": "Yang Maha Mulia",
+        "tafsir": "Maha Tinggi dalam kemuliaan dan kehormatan, mencerminkan kebesaran dan keagungan."
+      }
+    }
+  },
+  {
+    "id": 50,
+    "arabic": "ٱلْبَاعِثُ",
+    "latin": "Al-Bāʿith",
+    "translations": {
+      "en": {
+        "meaning": "The Resurrector",
+        "tafsir": "Brings back life and establishes resurrection for accountability and justice."
+      },
+      "id": {
+        "meaning": "Yang Membangkitkan",
+        "tafsir": "Mengembalikan kehidupan dan menegakkan kebangkitan untuk pertanggungjawaban dan keadilan."
+      }
+    }
+  },
+  {
+    "id": 51,
+    "arabic": "ٱلْشَهِيدُ",
+    "latin": "Ash-Shahīd",
+    "translations": {
+      "en": {
+        "meaning": "The Witness",
+        "tafsir": "Observes all actions and existence, nothing escapes divine awareness."
+      },
+      "id": {
+        "meaning": "Yang Maha Menyaksikan",
+        "tafsir": "Mengamati semua perbuatan dan eksistensi, tidak ada yang luput dari pengetahuan-Nya."
+      }
+    }
+  },
+  {
+    "id": 52,
+    "arabic": "ٱلْحَقُ",
+    "latin": "Al-Ḥaqq",
+    "translations": {
+      "en": {
+        "meaning": "The Truth",
+        "tafsir": "Ultimate reality, unchanging and eternal; all else is contingent upon it."
+      },
+      "id": {
+        "meaning": "Yang Maha Benar",
+        "tafsir": "Kebenaran mutlak, tak berubah dan abadi; segala sesuatu bergantung padanya."
+      }
+    }
+  },
+  {
+    "id": 53,
+    "arabic": "ٱلْوَكِيلُ",
+    "latin": "Al-Wakīl",
+    "translations": {
+      "en": {
+        "meaning": "The Trustee",
+        "tafsir": "Guardian and manager of affairs, ensuring that everything is handled with care and justice."
+      },
+      "id": {
+        "meaning": "Yang Maha Memelihara Urusan",
+        "tafsir": "Pelindung dan pengelola urusan, memastikan segala sesuatu ditangani dengan penuh perhatian dan keadilan."
+      }
+    }
+  },
+  {
+    "id": 54,
+    "arabic": "ٱلْقَوِيُّ",
+    "latin": "Al-Qawiyy",
+    "translations": {
+      "en": {
+        "meaning": "The Strong",
+        "tafsir": "Possesses ultimate strength and power, unchallenged by any force."
+      },
+      "id": {
+        "meaning": "Yang Maha Kuat",
+        "tafsir": "Memiliki kekuatan dan daya yang mutlak, tak tertandingi oleh kekuatan manapun."
+      }
+    }
+  },
+  {
+    "id": 55,
+    "arabic": "ٱلْمَتِينُ",
+    "latin": "Al-Matīn",
+    "translations": {
+      "en": {
+        "meaning": "The Firm",
+        "tafsir": "Steadfast and resolute, unshaken in purpose and authority."
+      },
+      "id": {
+        "meaning": "Yang Maha Kokoh",
+        "tafsir": "Teguh dan mantap, tidak tergoyahkan dalam tujuan dan kekuasaan."
+      }
+    }
+  },
+
+  {
+    "id": 56,
+    "arabic": "ٱلْوَلِيُّ",
+    "latin": "Al-Walīy",
+    "translations": {
+      "en": {
+        "meaning": "The Protecting Friend",
+        "tafsir": "Supports, protects, and oversees creation with care and guidance."
+      },
+      "id": {
+        "meaning": "Yang Maha Melindungi",
+        "tafsir": "Mendukung, melindungi, dan mengawasi ciptaan dengan perhatian dan petunjuk."
+      }
+    }
+  },
+  {
+    "id": 57,
+    "arabic": "ٱلْحَمِيدُ",
+    "latin": "Al-Ḥamīd",
+    "translations": {
+      "en": {
+        "meaning": "The Praiseworthy",
+        "tafsir": "Deserving of all praise, embodies qualities worthy of admiration and reverence."
+      },
+      "id": {
+        "meaning": "Yang Maha Terpuji",
+        "tafsir": "Layak mendapat segala pujian, memancarkan sifat yang patut dikagumi dan dihormati."
+      }
+    }
+  },
+  {
+    "id": 58,
+    "arabic": "ٱلْمُحْصِي",
+    "latin": "Al-Muḥṣī",
+    "translations": {
+      "en": {
+        "meaning": "The Accounter",
+        "tafsir": "Knows and keeps record of all things, actions, and events in creation."
+      },
+      "id": {
+        "meaning": "Yang Maha Menghitung",
+        "tafsir": "Mengetahui dan mencatat segala sesuatu, perbuatan, dan peristiwa dalam ciptaan."
+      }
+    }
+  },
+  {
+    "id": 59,
+    "arabic": "ٱلْمُبْدِئُ",
+    "latin": "Al-Mubdiʾ",
+    "translations": {
+      "en": {
+        "meaning": "The Originator",
+        "tafsir": "Initiates creation and brings into existence all things from nothing."
+      },
+      "id": {
+        "meaning": "Yang Memulai",
+        "tafsir": "Memulai ciptaan dan mewujudkan segala sesuatu dari ketiadaan."
+      }
+    }
+  },
+  {
+    "id": 60,
+    "arabic": "ٱلْمُعِيدُ",
+    "latin": "Al-Muʿīd",
+    "translations": {
+      "en": {
+        "meaning": "The Restorer",
+        "tafsir": "Brings back life, renewing creation and restoring balance and order."
+      },
+      "id": {
+        "meaning": "Yang Mengembalikan",
+        "tafsir": "Mengembalikan kehidupan, memperbaharui ciptaan, dan menata kembali keseimbangan."
+      }
+    }
+  },
+  {
+    "id": 61,
+    "arabic": "ٱلْمُحْيِي",
+    "latin": "Al-Muḥyī",
+    "translations": {
+      "en": {
+        "meaning": "The Giver of Life",
+        "tafsir": "Grants life and vitality to all beings, sustaining existence continually."
+      },
+      "id": {
+        "meaning": "Yang Menghidupkan",
+        "tafsir": "Memberikan kehidupan dan vitalitas kepada semua makhluk, menjaga eksistensi secara terus-menerus."
+      }
+    }
+  },
+  {
+    "id": 62,
+    "arabic": "ٱلْمُمِيتُ",
+    "latin": "Al-Mumīt",
+    "translations": {
+      "en": {
+        "meaning": "The Causer of Death",
+        "tafsir": "Determines the end of life for all creation, in accordance with divine wisdom."
+      },
+      "id": {
+        "meaning": "Yang Mematikan",
+        "tafsir": "Menentukan akhir kehidupan bagi semua ciptaan, sesuai hikmah-Nya."
+      }
+    }
+  },
+  {
+    "id": 63,
+    "arabic": "ٱلْحَيُّ",
+    "latin": "Al-Ḥayy",
+    "translations": {
+      "en": {
+        "meaning": "The Ever-Living",
+        "tafsir": "Exists eternally, self-sustaining, never-ending in life and essence."
+      },
+      "id": {
+        "meaning": "Yang Maha Hidup",
+        "tafsir": "Maha Hidup selamanya, mandiri, tidak berakhir dalam kehidupan dan hakikat."
+      }
+    }
+  },
+  {
+    "id": 64,
+    "arabic": "ٱلْقَيُّومُ",
+    "latin": "Al-Qayyūm",
+    "translations": {
+      "en": {
+        "meaning": "The Self-Subsisting Sustainer",
+        "tafsir": "Sustains and maintains all existence without need, independent and constant."
+      },
+      "id": {
+        "meaning": "Yang Maha Berdiri Sendiri",
+        "tafsir": "Menjaga dan memelihara seluruh ciptaan tanpa bergantung, mandiri dan tetap."
+      }
+    }
+  },
+  {
+    "id": 65,
+    "arabic": "ٱلْوَاجِدُ",
+    "latin": "Al-Wājid",
+    "translations": {
+      "en": {
+        "meaning": "The Perceiver",
+        "tafsir": "Ever-present and perceiving, nothing is hidden from knowledge and awareness."
+      },
+      "id": {
+        "meaning": "Yang Maha Menemukan",
+        "tafsir": "Selalu hadir dan mengetahui, tidak ada yang tersembunyi dari pengetahuan-Nya."
+      }
+    }
+  },
+  {
+    "id": 66,
+    "arabic": "ٱلْمَاجِدُ",
+    "latin": "Al-Mājid",
+    "translations": {
+      "en": {
+        "meaning": "The Glorious",
+        "tafsir": "Exalted in nobility and honor, manifesting grandeur and virtue in perfection."
+      },
+      "id": {
+        "meaning": "Yang Maha Mulia",
+        "tafsir": "Maha Tinggi dalam kebangsawanan dan kehormatan, memancarkan kebesaran dan kebajikan sempurna."
+      }
+    }
+  },
+
+  {
+    "id": 67,
+    "arabic": "ٱلْوَاحِدُ",
+    "latin": "Al-Wāḥid",
+    "translations": {
+      "en": {
+        "meaning": "The One",
+        "tafsir": "Unique, singular, and unmatched; the essence is indivisible and absolute."
+      },
+      "id": {
+        "meaning": "Yang Maha Esa",
+        "tafsir": "Unik, tunggal, dan tiada tanding; hakikat-Nya tak terpisahkan dan mutlak."
+      }
+    }
+  },
+  {
+    "id": 68,
+    "arabic": "ٱلْأَحَدُ",
+    "latin": "Al-Aḥad",
+    "translations": {
+      "en": {
+        "meaning": "The One and Only",
+        "tafsir": "Indivisible unity, encompassing all perfection and oneness without partner."
+      },
+      "id": {
+        "meaning": "Yang Maha Tunggal",
+        "tafsir": "Kesatuan yang tak terpisahkan, mencakup semua kesempurnaan tanpa sekutu."
+      }
+    }
+  },
+  {
+    "id": 69,
+    "arabic": "ٱلصَّمَدُ",
+    "latin": "Aṣ-Ṣamad",
+    "translations": {
+      "en": {
+        "meaning": "The Eternal Refuge",
+        "tafsir": "All depend on this essence, which is self-sufficient, eternal, and the ultimate support."
+      },
+      "id": {
+        "meaning": "Yang Maha Dibutuhkan",
+        "tafsir": "Semua bergantung pada-Nya, yang mandiri, abadi, dan menjadi sandaran utama."
+      }
+    }
+  },
+  {
+    "id": 70,
+    "arabic": "ٱلْقَادِرُ",
+    "latin": "Al-Qādir",
+    "translations": {
+      "en": {
+        "meaning": "The All-Powerful",
+        "tafsir": "Possesses unlimited power, capable of bringing anything into existence or change."
+      },
+      "id": {
+        "meaning": "Yang Maha Kuasa",
+        "tafsir": "Memiliki kekuatan tak terbatas, mampu menciptakan atau mengubah apa pun."
+      }
+    }
+  },
+  {
+    "id": 71,
+    "arabic": "ٱلْمُقْتَدِرُ",
+    "latin": "Al-Muqtadir",
+    "translations": {
+      "en": {
+        "meaning": "The All-Determining",
+        "tafsir": "Determines all events, decrees fate, and maintains control over the universe."
+      },
+      "id": {
+        "meaning": "Yang Maha Menentukan",
+        "tafsir": "Menetapkan semua peristiwa, menentukan takdir, dan mengendalikan seluruh alam."
+      }
+    }
+  },
+  {
+    "id": 72,
+    "arabic": "ٱلْمُقَدِّمُ",
+    "latin": "Al-Muqaddim",
+    "translations": {
+      "en": {
+        "meaning": "The Expediter",
+        "tafsir": "Brings forward what is destined to occur, advancing events according to will."
+      },
+      "id": {
+        "meaning": "Yang Maha Mendahulukan",
+        "tafsir": "Mendahulukan apa yang ditakdirkan, mempercepat peristiwa sesuai kehendak-Nya."
+      }
+    }
+  },
+  {
+    "id": 73,
+    "arabic": "ٱلْمُؤَخِّرُ",
+    "latin": "Al-Mu’akhkhir",
+    "translations": {
+      "en": {
+        "meaning": "The Delayer",
+        "tafsir": "Postpones events or outcomes according to wisdom, exercising divine timing."
+      },
+      "id": {
+        "meaning": "Yang Maha Mengakhirkan",
+        "tafsir": "Menunda peristiwa atau hasil sesuai hikmah, menunjukkan waktu Ilahi."
+      }
+    }
+  },
+  {
+    "id": 74,
+    "arabic": "ٱلأَوَّلُ",
+    "latin": "Al-Awwal",
+    "translations": {
+      "en": {
+        "meaning": "The First",
+        "tafsir": "Exists before all creation, primary and eternal, source of all beginnings."
+      },
+      "id": {
+        "meaning": "Yang Maha Awal",
+        "tafsir": "Ada sebelum semua ciptaan, utama dan abadi, sumber segala permulaan."
+      }
+    }
+  },
+  {
+    "id": 75,
+    "arabic": "ٱلآخِرُ",
+    "latin": "Al-Ākhir",
+    "translations": {
+      "en": {
+        "meaning": "The Last",
+        "tafsir": "Remains after all else, eternal, ultimate in purpose and existence."
+      },
+      "id": {
+        "meaning": "Yang Maha Akhir",
+        "tafsir": "Tetap ada setelah semua, abadi, utama dalam tujuan dan eksistensi."
+      }
+    }
+  },
+  {
+    "id": 76,
+    "arabic": "ٱلظَّاهِرُ",
+    "latin": "Aẓ-Ẓāhir",
+    "translations": {
+      "en": {
+        "meaning": "The Manifest",
+        "tafsir": "Clearly evident through creation, actions, and signs; nothing is hidden."
+      },
+      "id": {
+        "meaning": "Yang Maha Nyata",
+        "tafsir": "Terlihat jelas melalui ciptaan, perbuatan, dan tanda; tidak ada yang tersembunyi."
+      }
+    }
+  },
+  {
+    "id": 77,
+    "arabic": "ٱلْبَاطِنُ",
+    "latin": "Al-Bāṭin",
+    "translations": {
+      "en": {
+        "meaning": "The Hidden",
+        "tafsir": "Exists beyond perception, essence remains concealed yet influencing all creation."
+      },
+      "id": {
+        "meaning": "Yang Maha Ghaib",
+        "tafsir": "Ada di luar persepsi, hakikat-Nya tersembunyi tetapi memengaruhi seluruh ciptaan."
+      }
+    }
+  },
+
+  {
+    "id": 78,
+    "arabic": "ٱلْوَالِي",
+    "latin": "Al-Wālī",
+    "translations": {
+      "en": {
+        "meaning": "The Governor",
+        "tafsir": "Protector and manager of affairs, guiding and overseeing all creation."
+      },
+      "id": {
+        "meaning": "Yang Maha Mengatur",
+        "tafsir": "Pelindung dan pengelola urusan, membimbing dan mengawasi seluruh ciptaan."
+      }
+    }
+  },
+  {
+    "id": 79,
+    "arabic": "ٱلْمُتَعَالِي",
+    "latin": "Al-Mutaʿālī",
+    "translations": {
+      "en": {
+        "meaning": "The Most Exalted",
+        "tafsir": "Above all imperfection, supreme in status, majesty, and dignity."
+      },
+      "id": {
+        "meaning": "Yang Maha Tinggi",
+        "tafsir": "Di atas segala ketidaksempurnaan, unggul dalam kedudukan, keagungan, dan kehormatan."
+      }
+    }
+  },
+  {
+    "id": 80,
+    "arabic": "ٱلْبَرُّ",
+    "latin": "Al-Barr",
+    "translations": {
+      "en": {
+        "meaning": "The Source of All Goodness",
+        "tafsir": "Generous in goodness, blessing creation and nurturing virtuous acts."
+      },
+      "id": {
+        "meaning": "Yang Maha Pemberi Kebaikan",
+        "tafsir": "Maha Pemurah dalam kebaikan, memberkahi ciptaan dan menumbuhkan perbuatan mulia."
+      }
+    }
+  },
+  {
+    "id": 81,
+    "arabic": "ٱلْتَوَابُ",
+    "latin": "At-Tawwāb",
+    "translations": {
+      "en": {
+        "meaning": "The Acceptor of Repentance",
+        "tafsir": "Welcomes and forgives those who sincerely turn back, guiding them toward purification."
+      },
+      "id": {
+        "meaning": "Yang Maha Penerima Tobat",
+        "tafsir": "Menyambut dan mengampuni mereka yang bertaubat dengan tulus, membimbing menuju penyucian."
+      }
+    }
+  },
+  {
+    "id": 82,
+    "arabic": "ٱلْمُنْتَقِمُ",
+    "latin": "Al-Muntaqim",
+    "translations": {
+      "en": {
+        "meaning": "The Avenger",
+        "tafsir": "Ensures justice and holds accountable those who persist in wrongdoing."
+      },
+      "id": {
+        "meaning": "Yang Maha Pembalas",
+        "tafsir": "Menegakkan keadilan dan memberi pertanggungjawaban bagi mereka yang terus berbuat salah."
+      }
+    }
+  },
+  {
+    "id": 83,
+    "arabic": "ٱلْعَفُوُ",
+    "latin": "Al-ʿAfuww",
+    "translations": {
+      "en": {
+        "meaning": "The Pardoner",
+        "tafsir": "Erases sins and faults, forgiving generously beyond measure."
+      },
+      "id": {
+        "meaning": "Yang Maha Pemaaf",
+        "tafsir": "Menghapus dosa dan kesalahan, memaafkan dengan kemurahan tanpa batas."
+      }
+    }
+  },
+  {
+    "id": 84,
+    "arabic": "ٱلرَّؤُوفُ",
+    "latin": "Ar-Raʾūf",
+    "translations": {
+      "en": {
+        "meaning": "The Most Kind",
+        "tafsir": "Extremely compassionate and gentle, caring for creation in profound ways."
+      },
+      "id": {
+        "meaning": "Yang Maha Penyayang",
+        "tafsir": "Sangat penyayang dan lembut, memperhatikan ciptaan dengan kasih mendalam."
+      }
+    }
+  },
+  {
+    "id": 85,
+    "arabic": "مَالِكُ ٱلْمُلْكُ",
+    "latin": "Māliki-l-Mulk",
+    "translations": {
+      "en": {
+        "meaning": "The Owner of All Sovereignty",
+        "tafsir": "Holds dominion over all, master of power, authority, and governance."
+      },
+      "id": {
+        "meaning": "Yang Maha Menguasai Kerajaan",
+        "tafsir": "Memiliki kekuasaan atas semua, penguasa otoritas dan pemerintahan."
+      }
+    }
+  },
+  {
+    "id": 86,
+    "arabic": "ذُوالْجَلاَلِ وَٱلْإكْرَامِ",
+    "latin": "Dhū-l-Jalāl wal-Ikrām",
+    "translations": {
+      "en": {
+        "meaning": "The Lord of Majesty and Bounty",
+        "tafsir": "Exalted in glory and generosity, combining honor, greatness, and benevolence."
+      },
+      "id": {
+        "meaning": "Yang Maha Mulia dan Pemurah",
+        "tafsir": "Maha Tinggi dalam kemuliaan dan kemurahan, memadukan kehormatan, kebesaran, dan kebaikan."
+      }
+    }
+  },
+  {
+    "id": 87,
+    "arabic": "ٱلْمُقْسِطُ",
+    "latin": "Al-Muqsit",
+    "translations": {
+      "en": {
+        "meaning": "The Equitable",
+        "tafsir": "Maintains perfect balance and fairness in judgment and dealings."
+      },
+      "id": {
+        "meaning": "Yang Maha Adil",
+        "tafsir": "Menjaga keseimbangan dan keadilan sempurna dalam keputusan dan perbuatan."
+      }
+    }
+  },
+  {
+    "id": 88,
+    "arabic": "ٱلْجَامِعُ",
+    "latin": "Al-Jāmiʿ",
+    "translations": {
+      "en": {
+        "meaning": "The Gatherer",
+        "tafsir": "Brings together creation in perfect order and unity."
+      },
+      "id": {
+        "meaning": "Yang Maha Mengumpulkan",
+        "tafsir": "Mengumpulkan seluruh ciptaan dalam keteraturan dan kesatuan sempurna."
+      }
+    }
+  },
+
+  {
+    "id": 89,
+    "arabic": "ٱلْغَفَّارُ",
+    "latin": "Al-Ghaffār",
+    "translations": {
+      "en": {
+        "meaning": "The Constant Forgiver",
+        "tafsir": "Continuously forgives sins and shortcomings, embodying infinite mercy."
+      },
+      "id": {
+        "meaning": "Yang Maha Pengampun",
+        "tafsir": "Terus-menerus mengampuni dosa dan kekurangan, memancarkan rahmat tanpa batas."
+      }
+    }
+  },
+  {
+    "id": 90,
+    "arabic": "ٱلْقَهَّارُ",
+    "latin": "Al-Qahhār",
+    "translations": {
+      "en": {
+        "meaning": "The All-Prevailing",
+        "tafsir": "Supremely powerful, nothing can resist His will and authority."
+      },
+      "id": {
+        "meaning": "Yang Maha Perkasa",
+        "tafsir": "Sangat berkuasa, tiada yang mampu menentang kehendak dan kekuasaan-Nya."
+      }
+    }
+  },
+  {
+    "id": 91,
+    "arabic": "ٱلْوَهَّابُ",
+    "latin": "Al-Wahhāb",
+    "translations": {
+      "en": {
+        "meaning": "The Bestower",
+        "tafsir": "Generously grants blessings and favors without limit or expectation."
+      },
+      "id": {
+        "meaning": "Yang Maha Pemberi Karunia",
+        "tafsir": "Dengan murah hati memberikan nikmat dan karunia tanpa batas dan tanpa pamrih."
+      }
+    }
+  },
+  {
+    "id": 92,
+    "arabic": "الرَّزَّاقُ",
+    "latin": "Ar-Razzāq",
+    "translations": {
+      "en": {
+        "meaning": "The Provider",
+        "tafsir": "Supplies sustenance and provision to all creation abundantly."
+      },
+      "id": {
+        "meaning": "Yang Maha Pemberi Rezeki",
+        "tafsir": "Memberikan rezeki dan pemeliharaan kepada seluruh ciptaan dengan melimpah."
+      }
+    }
+  },
+  {
+    "id": 93,
+    "arabic": "ٱلْفَتَّاحُ",
+    "latin": "Al-Fattāḥ",
+    "translations": {
+      "en": {
+        "meaning": "The Opener",
+        "tafsir": "Opens paths, opportunities, and grants victory in accordance with wisdom."
+      },
+      "id": {
+        "meaning": "Yang Maha Membuka",
+        "tafsir": "Membuka jalan, peluang, dan memberikan kemenangan sesuai hikmah-Nya."
+      }
+    }
+  },
+  {
+    "id": 94,
+    "arabic": "ٱلْعَلِيْمُ",
+    "latin": "Al-ʿAlīm",
+    "translations": {
+      "en": {
+        "meaning": "The All-Knowing",
+        "tafsir": "Possesses perfect knowledge, aware of all seen and unseen."
+      },
+      "id": {
+        "meaning": "Yang Maha Mengetahui",
+        "tafsir": "Memiliki pengetahuan sempurna, mengetahui semua yang tampak dan tersembunyi."
+      }
+    }
+  },
+  {
+    "id": 95,
+    "arabic": "ٱلْقَابِضُ",
+    "latin": "Al-Qābiḍ",
+    "translations": {
+      "en": {
+        "meaning": "The Withholder",
+        "tafsir": "Restrains and holds back, exercising control over resources and outcomes."
+      },
+      "id": {
+        "meaning": "Yang Maha Menyempitkan",
+        "tafsir": "Menahan dan membatasi, mengatur sumber daya dan hasil ciptaan."
+      }
+    }
+  },
+  {
+    "id": 96,
+    "arabic": "ٱلْبَاسِطُ",
+    "latin": "Al-Bāsiṭ",
+    "translations": {
+      "en": {
+        "meaning": "The Expander",
+        "tafsir": "Enlarges, provides abundance, and extends sustenance and mercy."
+      },
+      "id": {
+        "meaning": "Yang Maha Melapangkan",
+        "tafsir": "Meluaskan, memberikan kelimpahan, dan memperluas rezeki serta rahmat."
+      }
+    }
+  },
+  {
+    "id": 97,
+    "arabic": "ٱلْخَافِضُ",
+    "latin": "Al-Khāfiḍ",
+    "translations": {
+      "en": {
+        "meaning": "The Abaser",
+        "tafsir": "Humbles the arrogant and reduces pride, establishing balance and justice."
+      },
+      "id": {
+        "meaning": "Yang Maha Merendahkan",
+        "tafsir": "Merendahkan yang sombong dan mengurangi kesombongan, menegakkan keseimbangan dan keadilan."
+      }
+    }
+  },
+  {
+    "id": 98,
+    "arabic": "ٱلْرَّافِعُ",
+    "latin": "Ar-Rāfiʿ",
+    "translations": {
+      "en": {
+        "meaning": "The Exalter",
+        "tafsir": "Raises the status of the humble and the righteous, elevating goodness."
+      },
+      "id": {
+        "meaning": "Yang Maha Meninggikan",
+        "tafsir": "Meninggikan kedudukan yang rendah hati dan orang-orang yang benar, mengangkat kebaikan."
+      }
+    }
+  },
+  {
+    "id": 99,
+    "arabic": "ٱلْمُجِيدُ",
+    "latin": "Al-Mujīd",
+    "translations": {
+      "en": {
+        "meaning": "The Most Glorious",
+        "tafsir": "Manifesting supreme glory, honor, and perfection throughout creation."
+      },
+      "id": {
+        "meaning": "Yang Maha Mulia",
+        "tafsir": "Memancarkan kemuliaan, kehormatan, dan kesempurnaan yang tertinggi di seluruh ciptaan."
+      }
+    }
+  }
+]
