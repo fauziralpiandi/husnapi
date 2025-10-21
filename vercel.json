@@ -1,13 +1,5 @@
 {
   "version": 2,
   "builds": [{ "src": "dist/index.js", "use": "@vercel/node" }],
-  "routes": [{ "src": "/(.*)", "dest": "dist/index.js" }],
-  "functions": {
-    "dist/index.js": {
-      "includeFiles": "data/v1.json"
-    }
-  },
-  "env": {
-    "NODE_ENV": "production"
-  }
+  "routes": [{ "src": "/(.*)", "dest": "dist/index.js" }]
 }
