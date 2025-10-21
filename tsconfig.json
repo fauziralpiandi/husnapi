@@ -4,7 +4,8 @@
     "target": "ES2022",
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
-    "rootDir": "api",
+    "baseUrl": ".",
+    "rootDir": "./",
     "outDir": "dist",
 
     "strict": true,
@@ -23,6 +24,6 @@
     "types": ["node", "vitest/globals"],
     "incremental": false
   },
-  "include": ["api"],
-  "exclude": ["node_modules", "dist"]
+  "include": ["api", "data"],
+  "exclude": ["node_modules", "api/**/*.test.ts"]
 }
