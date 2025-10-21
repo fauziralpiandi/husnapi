@@ -3,16 +3,15 @@ import express, {
   type NextFunction,
   type Response,
 } from 'express';
-import rateLimit from 'express-rate-limit';
+import * as rateLimit from 'express-rate-limit';
 import { v1 } from './v1/index.js';
 import pkg from '../package.json' with { type: 'json' };
 
 const app: Application = express();
-const PORT = Number(process.env.PORT) || 3000;
 
 app.set('trust proxy', 1); // load balancer
 
-const limiter = rateLimit({
+const limiter = rateLimit.default({
   windowMs: 15 * 60 * 1000,
   max: 99,
   message: {
@@ -20,7 +19,7 @@ const limiter = rateLimit({
     status: 429,
     data: null,
   },
-}); // fair: ~6 requests/min
+});
 
 // middleware
 app.use(express.json());
@@ -94,13 +93,6 @@ app.use((_, res: Response) => {
     status: 500,
     data: null,
   });
-});
-
-// start server
-app.listen(PORT, () => {
-  console.log(
-    `${pkg.name} v${pkg.version} (listening on port ${String(PORT)})`,
-  );
 });
 
 export { app as husnapi };
