@@ -1,17 +1,18 @@
 {
   "name": "husnapi",
   "version": "1.0.0",
+  "private": true,
   "description": "The 99 Names of Allah, Delivered!",
+  "homepage": "https://github.com/fauziralpiandi/husnapi#readme",
   "license": "MIT",
   "author": "Fauzira Alpiandi <fwzyrln@gmail.com>",
   "type": "module",
-  "main": "dist/index.js",
   "scripts": {
     "build": "rm -rf dist && tsc",
-    "dev": "tsx watch src/index.ts",
+    "dev": "tsx watch src",
     "format": "prettier --write .",
     "lint": "eslint --fix src --ext .ts",
-    "start": "node dist/index.js",
+    "start": "node dist",
     "test": "vitest run",
     "test:watch": "vitest"
   },
@@ -30,12 +31,11 @@
     ]
   },
   "dependencies": {
-    "@types/express": "5.0.3",
-    "express": "5.1.0",
-    "express-rate-limit": "8.1.0"
+    "express": "5.1.0"
   },
   "devDependencies": {
     "@eslint/js": "9.38.0",
+    "@types/express": "5.0.3",
     "@types/node": "24.9.0",
     "@types/supertest": "6.0.3",
     "eslint": "9.38.0",
@@ -46,8 +46,5 @@
     "typescript": "5.9.3",
     "typescript-eslint": "8.46.2",
     "vitest": "3.2.4"
-  },
-  "engines": {
-    "node": ">=18.0.0"
   }
 }

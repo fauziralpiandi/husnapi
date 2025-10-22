@@ -3,28 +3,17 @@ import express, {
   type NextFunction,
   type Response,
 } from 'express';
-import rateLimit from 'express-rate-limit';
 import { v1 } from './v1/index.js';
 import pkg from '../package.json' with { type: 'json' };
 
 const app: Application = express();
 const PORT = Number(process.env.PORT) || 3000;
 
-app.set('trust proxy', 1); // load balancer
-
-const limiter = rateLimit({
-  windowMs: 15 * 60 * 1000,
-  max: 99,
-  message: {
-    success: false,
-    status: 429,
-    data: null,
-  },
-}); // fair: ~6 requests/min
+// trust first proxy (load balancer)
+app.set('trust proxy', 1);
 
 // middleware
 app.use(express.json());
-app.use(limiter);
 
 // CORS
 app.use((_, res: Response, next: NextFunction) => {
@@ -37,41 +26,47 @@ app.use((_, res: Response, next: NextFunction) => {
 
 // root
 app.get('/', (_, res: Response) => {
+  const meta = {
+    name: pkg.name,
+    version: pkg.version,
+    description: pkg.description,
+    homepage: pkg.homepage,
+  };
+  const system = {
+    status: 'ok',
+    uptime: process.uptime(),
+    process_id: process.pid,
+    timestamp: new Date().toISOString(),
+  };
+  const endpoints = {
+    routes: [
+      {
+        path: '/v1/names',
+        method: 'GET',
+        description: 'Get all names',
+      },
+      {
+        path: '/v1/names/random',
+        method: 'GET',
+        description: 'Get random name(s)',
+      },
+      {
+        path: '/v1/names/:id',
+        method: 'GET',
+        description: 'Get specific name by ID',
+      },
+      {
+        path: '/v1/health',
+        method: 'GET',
+        description: 'Health check',
+      },
+    ],
+  };
+
   res.status(200).json({
     success: true,
     status: 200,
-    data: {
-      name: pkg.name,
-      description: pkg.description,
-      version: pkg.version,
-      status: 'ok',
-      uptime: process.uptime(),
-      timestamp: new Date().toISOString(),
-      endpoints: {
-        routes: [
-          {
-            path: '/v1/names',
-            method: 'GET',
-            description: 'Get all names',
-          },
-          {
-            path: '/v1/names/random',
-            method: 'GET',
-            description: 'Get random name(s)',
-          },
-          {
-            path: '/v1/names/:id',
-            method: 'GET',
-            description: 'Get specific name by ID',
-          },
-          {
-            path: '/v1/health',
-            method: 'GET',
-            description: 'Health check',
-          },
-        ],
-      },
-    },
+    data: { meta, system, endpoints },
   });
 });
 
@@ -87,7 +82,7 @@ app.use((_, res: Response) => {
   });
 });
 
-// global error
+// global error handler
 app.use((_, res: Response) => {
   res.status(500).json({
     success: false,
@@ -96,11 +91,14 @@ app.use((_, res: Response) => {
   });
 });
 
-// start server
-app.listen(PORT, () => {
-  console.log(
-    `${pkg.name} v${pkg.version} (listening on port ${String(PORT)})`,
-  );
-});
+// start server (only for local development)
+// will handle the server lifecycle in production
+if (process.env.NODE_ENV !== 'production') {
+  app.listen(PORT, () => {
+    console.log(
+      `${pkg.name} v${pkg.version} (listening on http://localhost:${String(PORT)})`,
+    );
+  });
+}
 
-export { app as husnapi };
+export { app as default };

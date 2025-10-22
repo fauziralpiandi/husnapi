@@ -29,17 +29,19 @@ interface Res<T> {
   data: T;
 }
 
+// ESM doesn’t have `__dirname`
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 let cachedNames: readonly Name[] = [];
 
 async function loadNames(): Promise<void> {
-  const filePath = join(__dirname, '..', '..', 'data', 'v1.json');
+  const filePath = join(__dirname, '..', '..', 'db', 'v1.json');
 
   try {
     const json = await readFile(filePath, 'utf-8');
-    const data = Object.freeze(JSON.parse(json) as Name[]);
+    // `Object.freeze` prevents accidental mutations
+    const data = Object.freeze(JSON.parse(json) as Name[]); // immutable once loaded
 
     cachedNames = data;
   } catch (err) {
@@ -49,7 +51,8 @@ async function loadNames(): Promise<void> {
   }
 }
 
-await loadNames();
+// data loads before any routes are registered
+await loadNames(); // top-level await, only works in ESM
 
 function parseLang(query: unknown): Lang {
   const lang = typeof query === 'string' ? query.trim().toLowerCase() : 'en';
@@ -60,6 +63,7 @@ function parseLang(query: unknown): Lang {
 function parseQuery(query: unknown): string {
   const q = typeof query === 'string' ? query.trim().toLowerCase() : '';
 
+  // prevents injection attacks
   return /^[a-z0-9\s-]*$/.test(q) ? q : '';
 }
 
@@ -119,7 +123,7 @@ router.get('/names/random', (req: Request, res: Response) => {
 
   const shuffled = [...cachedNames];
 
-  // 0(n) fisher-yates
+  // fisher-yates - O(n), unbiased randomization
   for (let i = shuffled.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
 

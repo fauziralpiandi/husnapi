@@ -2,8 +2,8 @@ import { defineConfig } from 'vitest/config';
 
 export default defineConfig({
   test: {
-    name: 'husnapi',
     globals: true,
+    name: 'husnapi',
     environment: 'node',
     include: ['**/*.test.ts'],
   },
