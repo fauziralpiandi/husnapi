@@ -144,8 +144,8 @@ All responses follow this structure:
 
 To ensure fair usage for all users, the API has rate limits:
 
-- **Limit:** 99 requests per 15 minutes
-- **Rate:** Approximately 6 requests per minute
+- **Limit:** 99 requests per 9 minutes
+- **Rate:** Approximately 11 requests per minute
 - **Scope:** Applied per IP address
 
 > [!NOTE]
