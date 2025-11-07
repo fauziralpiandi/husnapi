@@ -61,10 +61,10 @@ function parseLang(query: unknown): Lang {
 }
 
 function parseQuery(query: unknown): string {
-  const q = typeof query === 'string' ? query.trim().toLowerCase() : '';
+  const q = typeof query === 'string' ? query.trim() : '';
 
   // prevents injection attacks
-  return /^[a-z0-9\s-]*$/.test(q) ? q : '';
+  return /^[a-z0-9\s-]*$/i.test(q) ? q : '';
 }
 
 function formatName(name: Name, lang: Lang) {
