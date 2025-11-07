@@ -66,7 +66,7 @@ app.get('/', (_, res: Response) => {
   res.status(200).json({
     success: true,
     status: 200,
-    data: { meta, system, endpoints },
+    data: { ...meta, system, endpoints },
   });
 });
 
