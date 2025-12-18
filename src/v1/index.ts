@@ -61,7 +61,7 @@ function parseLang(query: unknown): Lang {
 }
 
 function parseQuery(query: unknown): string {
-  const q = typeof query === 'string' ? query.trim() : '';
+  const q = typeof query === 'string' ? query.trim().toLowerCase() : '';
 
   // prevents injection attacks
   return /^[a-z0-9\s-]*$/i.test(q) ? q : '';

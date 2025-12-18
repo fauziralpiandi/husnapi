@@ -1,6 +1,7 @@
 import express, {
   type Application,
   type NextFunction,
+  type Request,
   type Response,
 } from 'express';
 import { v1 } from './v1/index.js';
@@ -83,7 +84,9 @@ app.use((_, res: Response) => {
 });
 
 // global error handler
-app.use((_, res: Response) => {
+app.use((err: unknown, _req: Request, res: Response, _next: NextFunction) => {
+  console.error(err);
+
   res.status(500).json({
     success: false,
     status: 500,
